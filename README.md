@@ -5,7 +5,7 @@
 </div>
 
 
-###  💻 Curso Engenharia de Software na <a href="https://ucb.catolica.edu.br/portal/> Universidade Católica de Brasília.</a>
+###  💻 Curso Engenharia de Software na <a href="https://ucb.catolica.edu.br/portal/"> Universidade Católica de Brasília.</a>
 
 <br>
 
