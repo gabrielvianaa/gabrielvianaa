@@ -14,7 +14,6 @@
 <div align="center">
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielviana&show_icons=true&theme=radical)
-![Snake animation](https://github.com/seu-usuário-aqui/gabrielvianaa/blob/output/github-contribution-grid-snake.svg)
 <h2>Estou aprendendo</h2>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="60" height = "60" />
